@@ -1,52 +1,37 @@
-🌇 Sundown Studio - Frontend Clone
-A responsive and animated frontend clone of the official Sundown Studio website, built using HTML, CSS, and JavaScript. This project highlights creative layout design and animation techniques without using any external frameworks.
+# 🌇 Sundown Studio - Frontend Clone
 
-📌 Overview
-This project is a pixel-perfect frontend implementation of the Sundown Studio homepage. It includes interactive animations, smooth transitions, and modern UI elements using only core web technologies.
+A responsive and animated frontend clone of the official Sundown Studio website, built using **HTML**, **CSS**, and **JavaScript**. This project highlights creative layout design and animation techniques without using any external frameworks.
 
-✨ Features
-🎨 Fully responsive design
+---
 
-🖱 Smooth scroll and hover animations
+## 📌 Overview
 
-💻 Pure HTML, CSS, and JavaScript (no libraries)
+This is a pixel-perfect frontend implementation of the Sundown Studio homepage. It includes interactive animations, smooth transitions, and modern UI elements using only core web technologies.
 
-⚡ Scroll-triggered effects and transitions
+---
 
-🧩 Clean and structured code for learning purposes
+## ✨ Features
 
-🛠 Technologies Used
-HTML5
+- 🎨 Fully responsive design  
+- 🖱 Smooth scroll and hover animations  
+- 💻 Built using pure HTML, CSS, and JavaScript (no libraries)  
+- ⚡ Scroll-triggered effects and transitions  
+- 🧩 Clean and structured code for learning and development  
 
-CSS3 (Flexbox, Grid, Animations, Transitions)
+---
 
-JavaScript (ES6) – For DOM manipulation and animations
+## 🛠 Technologies Used
 
-🚀 How to Run
-Clone the repository
+- **HTML5**
+- **CSS3** (Flexbox, Grid, Animations, Transitions)
+- **JavaScript (ES6)** – For DOM manipulation and animations
 
-bash
-Copy
-Edit
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository**
+
+```bash
 git clone https://github.com/suhani1903/sundown-studio-clone.git
-Open the project
 
-Open the folder in your code editor
-
-Open index.html in your browser
-
-No build tools or installations required. Just run locally.
-
-📷 Screenshots
-Add screenshots here (if available) to showcase UI and animations.
-
-📚 Purpose
-This project was created to practice:
-
-Responsive layouts
-
-Animation techniques using CSS and JS
-
-UI cloning and design precision
-
-Enhancing frontend development skills
